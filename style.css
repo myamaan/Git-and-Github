@@ -1,0 +1,10 @@
+.main-head{
+    text-align: center;
+    color: darkblue;
+}
+.para {
+    font-size: 30px;
+}
+* {
+    background-color: aqua;
+}
